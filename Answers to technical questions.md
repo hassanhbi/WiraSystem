@@ -37,10 +37,13 @@ It was a great experience! It helped me improve my skills, especially in using `
   "role": "Junior Developer",
   "skills": [
     "C#",
-    "ASP.NET Core",
-    "HttpClient",
-    "Unit Testing",
-    "API Integration"
+    ".Net",
+    "OOP",
+    "Entity Framework",
+    "Sql server",
+    "Rest",
+    "SOLID",
+    "Git"
   ],
   "experience": "1 year",
   "interests": [
