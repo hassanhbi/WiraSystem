@@ -30,7 +30,7 @@ The last technical book I read was **"Clean Code"** by Robert C. Martin. It help
 It was a great experience! It helped me improve my skills, especially in using `HttpClient` more effectively. I learned how to work with APIs and handle data retrieval and processing more efficiently.
 
 ##-7 Please describe yourself using JSON format.
-
+```json
 {
   "name": "Your Name",
   "role": "Junior Developer",
@@ -57,6 +57,7 @@ It was a great experience! It helped me improve my skills, especially in using `
     "Enhance debugging and performance tuning skills"
   ]
 }
+```
 
 
 
